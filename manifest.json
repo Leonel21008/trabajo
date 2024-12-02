@@ -1,0 +1,17 @@
+{
+    "name": "YAYO",
+    "short_name": "YAYITO",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./index.html",
+    "icons": [
+        {
+            "src": "./img/empleado.jpeg",
+            "type": "image/jpeg",
+            "sizes": "512x512"
+        }
+    ]
+}
